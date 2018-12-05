@@ -4,5 +4,5 @@ Run the following to create "mvim.app":
 
 then move the file "mvim.app" to Application/
 
-Need to update mvim script file when ever you install a new verion
+Need to update VIM_IN_MACVIM_BIN in bashrc_device.sh whenever you install a new verion
 of macvim from brew.

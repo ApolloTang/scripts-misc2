@@ -1,4 +1,5 @@
 #!/bin/bash
-binary=/usr/local/Cellar/macvim/8.1-151/MacVim.app/Contents/MacOS/Vim
+#binary=/usr/local/Cellar/macvim/8.1-151/MacVim.app/Contents/MacOS/Vim
+binary="$VIM_IN_MACVIM_BIN"
 exec "$binary" -g &
 
