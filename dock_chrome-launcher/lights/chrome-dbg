@@ -1,0 +1,5 @@
+#!/bin/bash
+#/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome $* 2>&1 &
+#/Applications/Chromium.app/Contents/MacOS/Chromium $* 2>&1 &
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --profile-directory="Profile 1" $* 2>&1 &
+
