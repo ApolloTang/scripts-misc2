@@ -6,3 +6,7 @@ then move the file "mvim.app" to Application/
 
 Need to update VIM_IN_MACVIM_BIN in bashrc_device.sh whenever you install a new verion
 of macvim from brew.
+
+2018-12-28
+This stop working for some reason
+
